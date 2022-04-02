@@ -1,9 +1,13 @@
 # Gerador de Senhas
 
 O programa Gerador de Senhas, é usado para:
+
 	- Gerar senhas aleatórias
 	- Contendo letras maiúsculas, minúsculas, números e simbolos
 	- A senha pode ser do tamanho que o usuário escolher
+	
+**Esse projeto foi um desafio de código do Bootcamp Cognizant Cloud Data Engineer #2,
+no qual era necessário criar um pacote em Python.
 
 ## Instalação
 
