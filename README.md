@@ -1,6 +1,5 @@
 # Gerador de Senhas
 
-Descrição. 
 O programa Gerador de Senhas, é usado para:
 	- Gerar senhas aleatórias
 	- Contendo letras maiúsculas, minúsculas, números e simbolos
